@@ -1,5 +1,6 @@
 package summer.seungnong.repository;
 
+import org.springframework.stereotype.Repository;
 import summer.seungnong.domain.Member;
 
 import java.util.*;
